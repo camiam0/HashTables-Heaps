@@ -1,6 +1,6 @@
 //Name: Cameron Bartlett
 //Date: 03/07/2025
-//Lab 5 - Data Structures - Hash Maps and Min Heaps
+//Lab 6 - Data Structures - Hash Maps and Min Heaps
 //Description: User interface for a Hash Map and a Min Heap
 
 import java.util.HashMap;
